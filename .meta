@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "eduardo": "git@github.com:agarsev/signario-eduardo.git",
+    "data": "git@github.com:agarsev/signario-data.git",
+    "backend": "git@github.com:agarsev/signario-backend.git",
+    "frontend": "git@github.com:agarsev/signario-frontend.git"
+  }
+}
