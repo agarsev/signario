@@ -1,0 +1,10 @@
+{
+  "workspaces": [
+    "guillermo",
+    "web",
+    "signotator"
+  ],
+  "devDependencies": {
+    "meta": "^2.2.25"
+  }
+}
