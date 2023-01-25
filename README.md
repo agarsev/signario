@@ -12,6 +12,8 @@ Meta-repositorio de código para el proyecto Signario.
 - [guillermo](https://github.com/agarsev/signario-guillermo): programa para
     gestionar la base de datos de signos del Signario.
 - [web](https://github.com/agarsev/signario-web): interfaz web del Signario.
+- [signotator](https://github.com/agarsev/signotator): herramienta de entrada
+    visual de LSE en Signotación.
 
 ## Deprecated:
 
