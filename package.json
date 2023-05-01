@@ -1,7 +1,6 @@
 {
   "workspaces": [
     "guillermo",
-    "web",
     "signotator"
   ],
   "devDependencies": {
